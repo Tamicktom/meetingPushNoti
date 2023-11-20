@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36642224974",
+    "project_id": "meetingpushnoti",
+    "storage_bucket": "meetingpushnoti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36642224974:android:a229a43e653c3177debc1f",
+        "android_client_info": {
+          "package_name": "com.example.meetingpushnoti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRNUk6nE4V09NR_2uyRoA2kqkkW0Z6gtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
